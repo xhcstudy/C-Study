@@ -1,0 +1,20 @@
+﻿生成启动时间为 2022/5/6 21:45:00。
+     1>项目“D:\study_for_work\c++\STL\deque容器\deque容器\deque容器\deque容器.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "deque排序.cpp" "数据存取.cpp"
+         数据存取.cpp
+         deque排序.cpp
+         正在生成代码...
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\study_for_work\c++\STL\deque容器\deque容器\Debug\deque容器.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\study_for_work\c++\STL\deque容器\deque容器\Debug\deque容器.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\study_for_work\c++\STL\deque容器\deque容器\Debug\deque容器.lib" /MACHINE:X86 "Debug\deque大小操作.obj"
+         "Debug\deque容器赋值操作.obj"
+         "Debug\deque排序.obj"
+         "Debug\deque插入和删除.obj"
+         "Debug\deque构造函数.obj"
+         "Debug\数据存取.obj"
+         deque容器.vcxproj -> D:\study_for_work\c++\STL\deque容器\deque容器\Debug\deque容器.exe
+     1>已完成生成项目“D:\study_for_work\c++\STL\deque容器\deque容器\deque容器\deque容器.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.68
